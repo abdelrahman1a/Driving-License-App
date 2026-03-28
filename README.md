@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [About](#about)
 - [Features](#features)
@@ -23,7 +23,7 @@ The **Driving Vehicle License Department (DVLD)** application is a Windows deskt
 
 ---
 
-## ✨ Features
+## Features
 
 - 🪪 **Local License Management** — Issue, renew, and revoke local driving licenses
 - 🌍 **International License Management** — Process and manage international driving permits
@@ -34,7 +34,7 @@ The **Driving Vehicle License Department (DVLD)** application is a Windows deskt
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 The project follows a clean **3-Layer Architecture** for separation of concerns:
 
@@ -56,7 +56,7 @@ The project follows a clean **3-Layer Architecture** for separation of concerns:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** C# (.NET Framework)
 - **UI Framework:** Windows Forms (WinForms)
@@ -66,7 +66,7 @@ The project follows a clean **3-Layer Architecture** for separation of concerns:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -99,7 +99,7 @@ The project follows a clean **3-Layer Architecture** for separation of concerns:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Driving-License-App/
@@ -122,7 +122,7 @@ Driving-License-App/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! To contribute:
 
@@ -134,10 +134,10 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-> Built by [abdelrahman1a](https://github.com/abdelrahman1a) 🛠️
+> Built by [Abdelrahman Ahmed](https://github.com/abdelrahman1a) 🛠️
